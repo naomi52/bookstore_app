@@ -1,2 +1,2 @@
 # bookstore_app
-Using Java and SQL to design a virtual a bookstore
+Using Java and SQL to design a virtual a bookstore (JDBC application)
